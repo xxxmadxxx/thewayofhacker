@@ -13,5 +13,4 @@ Root password ?
 
 
 - The password found in wireless file can be used with the user netadmin to login in ssh
-- We have found that there's a https://github.dev/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation vulnerability in the server
-
+- We have found a vulnerability in WPS - https://github.com/t6x/reaver-wps-fork-t6x
