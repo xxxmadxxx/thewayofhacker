@@ -19,7 +19,7 @@ This is a repository where we hack things.
 
 You can also collaborate with this repository, and it's very easy to do! We will show you how to do it.
 
-Step by step on how to do the [Fork](/documentation/create_fork.md)
+Step by step on how to do the [Fork](/documentation/readme.md)
 
 ## 🖖 Tks
 
